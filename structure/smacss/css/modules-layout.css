@@ -1,0 +1,11 @@
+/* layout helper*/
+.clr{
+	clear: both;
+}
+
+
+/* module layout */
+.l-navbar {
+	float: right;
+	margin-top: 10px;
+}
