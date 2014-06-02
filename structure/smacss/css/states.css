@@ -1,0 +1,14 @@
+/*
+	-can apply to module or layout, even allowed with base class
+	-can use !important here
+	-should be javascript dependent
+
+*/
+
+.is-collapsed{
+	display: none;
+}
+
+.is_error{
+	border: 1px solid red;
+}
