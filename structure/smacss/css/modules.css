@@ -1,0 +1,17 @@
+/*
+	-modules always sit inside layout or other module
+	-only classname
+	-only use element selector if it has semantic no div or span
+
+*/
+
+/*nav bar module*/
+
+.navbar{
+	padding: 10px;
+}
+
+.navbar .navbar-item{
+	padding: 5px;
+	display: inline-block;
+}
