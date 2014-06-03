@@ -1,6 +1,12 @@
+/* page layout */
+
 #header {
-	height: 20%;
 	border: 1px solid black;
+}
+
+/*states*/
+#header.is-collapsed{
+	display: none;
 }
 
 #sidebar{
@@ -34,6 +40,4 @@
 	float: none;
 	width: 100%;	
 }
-
-
 

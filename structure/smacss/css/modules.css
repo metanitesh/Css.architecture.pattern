@@ -20,3 +20,9 @@
 	padding-left: 50px;
 }
 
+
+/*select state*/
+.is-link-selected{
+	background: yellow;
+}
+
