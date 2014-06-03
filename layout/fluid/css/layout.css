@@ -1,0 +1,27 @@
+.main{
+	min-width: 600px;
+	border: 1px solid red;
+	height: 100%;
+}
+
+#header{
+	border: 1px solid #000;
+	height: 60px;
+}
+
+#sidebar{
+	border: 1px solid green;
+	height: 70%;
+	float: left;
+	width: 30%;
+}
+
+#main-content{
+	border: 1px solid green;
+	height: 70%;
+	float: right;
+	width: 60%;
+}
+
+
+
