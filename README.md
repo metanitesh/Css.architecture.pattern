@@ -1,1 +1,2 @@
-### collection of large scale css architecture design pattern 
+### CSS Design Pattern
+This repository demonstrate, how to implement components of SMACSS in large project.
